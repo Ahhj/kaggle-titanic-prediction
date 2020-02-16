@@ -1,4 +1,4 @@
-Template for kaggle projects
+Predicting survivors of the titanic disaster.
 
 # Getting started
 - From the project root directory, create a virtual environment
